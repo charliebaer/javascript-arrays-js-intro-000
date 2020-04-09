@@ -5,5 +5,5 @@ var chocolateBars=[
   'skittles'
 ]
 addElementsToBeginningOfArray(array,element){
-  
+
 }
